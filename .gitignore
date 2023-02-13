@@ -1,3 +1,3 @@
 ./client/.env
 ./client/.env.production
-/nodemon.json
+nodemon.json
